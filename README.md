@@ -1,0 +1,2 @@
+# Templates
+Sample of templates
